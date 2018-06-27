@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1530115588 source:c:\users\public\public projects\finalexam ahmedfaid\gamepiece.cpp
+	"GamePiece.h"
+
+1530123860 c:\users\public\public projects\finalexam ahmedfaid\gamepiece.h
+	"Coords.h"
+
+1446671344 source:c:\users\public\public projects\finalexam ahmedfaid\main.cpp
+	<iostream>
+
+1530118909 c:\users\public\public projects\finalexam ahmedfaid\coords.h
+
+1526410563 source:c:\users\public\public projects\finalexam ahmedfaid\coords.cpp
+	"Coords.h"
+
+1530123868 source:c:\users\public\public projects\finalexam ahmedfaid\checkerpiece.cpp
+	"CheckerPiece.h"
+
+1530123852 c:\users\public\public projects\finalexam ahmedfaid\checkerpiece.h
+	"GamePiece.h"
+	"Coords.h"
+	<iostream>
+
